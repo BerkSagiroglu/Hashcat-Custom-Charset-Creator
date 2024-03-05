@@ -1,3 +1,5 @@
+This is a Python script that prepares a custom charset for hashcat based on the given password.
+
 Here are Built-in charsets;
 
 ?l = abcdefghijklmnopqrstuvwxyz
